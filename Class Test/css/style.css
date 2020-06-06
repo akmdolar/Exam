@@ -1,0 +1,38 @@
+                    body {
+                        padding: 0px;
+                        margin: 0px;
+                    }
+                    
+                    .head1 {
+                        background-color: black;
+                        color: white;
+                        font-style: italic;
+                        text-transform: uppercase;
+                    }
+                    
+                    .logo1 {
+                        position: relative;
+                        background-color: white;
+                        color: red;
+                        margin-left: 80px;
+                    }
+                    
+                    .logo2 {
+                        position: relative;
+                        background-color: white;
+                        color: green;
+                        margin-left: 80px;
+                    }
+                    
+                    ul {
+                        list-style: none;
+                        background-color: darkred;
+                        padding: 10px;
+                        color: black;
+                        text-decoration: black;
+                    }
+                    
+                    li {
+                        display: inline;
+                        padding: 10px;
+                    }
